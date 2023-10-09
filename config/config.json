@@ -1,0 +1,6 @@
+{
+    "username" : "root",
+    "password" : "foot",
+    "SOCKET_PORT" : 7005,
+    "REDIS_PORT" : 6379
+}
